@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+
+env/
+venv/
+.venv/
+ENV/
+
+.DS_Store
+
+runs/*_quality/
+
+node_modules/

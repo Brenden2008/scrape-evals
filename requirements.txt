@@ -1,0 +1,15 @@
+python-dotenv 
+typer
+requests
+pandas
+firecrawl
+scrapingbee
+apify-client
+scrapy
+crawl4ai
+playwright
+selenium
+exa-py
+tavily-python
+plotly
+nbformat
