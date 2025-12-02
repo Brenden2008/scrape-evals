@@ -38,6 +38,9 @@ class ScrapeResult(TypedDict, total=False):
         # Tavily
         "tavily_api",
 
+        # Teracrawl
+        "teracrawl_api",
+
         # Zyte
         "zyte_api",
     ]
