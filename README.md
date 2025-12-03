@@ -10,6 +10,7 @@ Below are evaluation results across different engines.
 
 | Engine	        | Coverage (Success Rate) (%)	| Quality (F1) |
 |-----------------|-----------------------------|--------------|
+| Teracrawl	      | 84.2	                      | 0.62         |
 | Firecrawl	      | 80.9	                      | 0.68         |
 | Exa	            | 76.3	                      | 0.53         |
 | Tavily	        | 67.6	                      | 0.50         |
